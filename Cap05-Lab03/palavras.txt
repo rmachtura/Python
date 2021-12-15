@@ -1,0 +1,8 @@
+Bateria
+Mouse
+Livros
+Celular
+Python
+Conda
+Anaconda
+Pycharm
