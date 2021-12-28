@@ -1,0 +1,10 @@
+Comandos MongoDB
+
+sudo systemctl start mongod - iniciar o mongoDB
+
+sudo systemctl status mongod - verifica status do mongoDB
+
+sudo systemctl stop mongod - parar o mongoDB
+
+sudo systemctl restart mongod - reiniciar o mongoDB
+
