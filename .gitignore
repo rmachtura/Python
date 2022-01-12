@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#ignorando banco de dados
+/MiniProjeto/imdb.db
+/MiniProjeto/downloads
